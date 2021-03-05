@@ -1,0 +1,180 @@
+Which of the following are components you might find inside a PC?
+CPU
+Speaker
+Keyboard
+Monitor
+CPU
+Which device stores data over the long term?
+CPU
+RAM
+Hard drive
+Video card
+Hard drive
+You would normally plug speakers into which type of port?
+FireWire
+DVI
+1/8-inch TRS
+1/4-inch TRS
+1/8-inch TRS
+To which type of expansion slot would you install an x16 card?
+PCI
+PCIe
+USB
+PCI-X
+PCIe
+Which process of the computer checks all your components during boot?
+CMOS
+POST
+BIOS
+EEPROM
+POST
+Tim installs a new CPU in a computer. After a few hours, the processor starts to overheat. Which of the following might be the cause?
+The CPU is not locked down.
+The CPU is not properly seated.
+Thermal compound was not applied.
+The CPU is not compatible with the motherboard.
+Thermal compound was not applied.
+Which of the following could cause the POST to fail?
+CPU
+Power supply
+Optical drive
+Memory
+CPU
+Which expansion bus uses lanes to transfer data?
+PCI
+DMI
+PCIe
+SATA
+PCIe
+Which of the following might you find as part of a tablet computer?
+Flash memory
+SATA hard drive
+Multi-touch touchscreen
+24-inch display
+Flash memory
+Which kind of socket incorporates "lands" to ensure connectivity to a CPU?
+PGA
+Chipset
+LGA
+Copper
+LGA
+How should you hold RAM when installing it?
+By the edges
+By the front and back
+With tweezers
+With a punch-down tool
+By the edges
+Which device should you use to protect against power outages?
+Multimeter
+UPS
+FedEx
+Surge protector
+UPS
+Which of the following uses a single 24-pin main motherboard power connector?
+ATX
+ATX 12V 1.3
+ATX 12V 2.0
+ATX 5V 2.0
+ATX 12V 2.0
+What is the maximum data transfer rate of SATA revision 3.0?
+1.5 Gb/s
+150 MB/s
+3.0 Gb/s
+6.0 Gb/s
+6.0 Gb/s
+Which type of adapter card accepts broadcast programming?
+FireWire card
+Video capture card
+Network interface card
+TV tuner
+TV tuner
+Which of the following types of custom PCs requires an HDMI output?
+HTPC
+Gaming PC
+Virtualization workstation
+CAD/CAM workstation
+HTPC
+How many pins are inside a SATA data connector?
+15
+7
+24
+127
+7
+What is the delay in the RAM's response to a request from the memory controller called?
+Latency
+Standard deviation
+Fetch interval
+Lag
+Latency
+What is the minimum number of hard drives necessary to implement RAID 5?
+Two
+Five
+Three
+Four
+Three
+A user’s time and date keeps resetting to January 1, 2000. Which of the following is the most likely cause?
+The BIOS needs to be updated.
+Windows needs to be updated.
+The Windows Date and Time Properties window needs to be modified.
+The lithium battery needs to be replaced.
+The lithium battery needs to be replaced
+Which type of adapter card is normally plugged into a PCIe x16 adapter card slot?
+Modem
+Video
+NIC
+Sound
+Video
+To prevent damage to a computer, the computer should be connected to which of the following?
+A power strip
+A power inverter
+An AC to DC converter
+A UPS
+A UPS
+Which of the following is a common type of CPU for a smartphone?
+LGA 2011
+SoC
+Core i7
+LPDDR
+SoC
+Which of the following components could cause the POST to beep several times and fail during boot?
+Sound card
+Power supply
+Hard drive
+RAM
+RAM
+Which of the following is the proper boot sequence of a PC?
+CPU, POST, boot loader, operating system
+Boot loader, operating system, CPU, RAM
+POST, CPU, boot loader, operating system
+CPU, RAM, boot loader, operating system
+CPU, POST, boot loader, operating system
+Which of the following are ports you might find on smartphones and tablets? (Select the two best answers.)
+eSATA
+Micro USB
+Lightning
+DVI
+Micro USB; Lightning
+Which of the following has the fastest data throughput?
+CD-ROM
+Hard drive
+RAM
+USB
+RAM
+Which kind of form factor is commonly found in HTPCs?
+ATX
+Pico-ITX
+MicroATX
+Nano-ITX
+MicroATX
+Which of the following CPU cooling methods is the most common?
+Heat sink
+Heat sink and fan
+Liquid cooling
+Liquid nitrogen
+Heat sink and fan
+Which of the following is not a video port?
+DVI
+HDMI
+DisplayPort
+S/PDIF
+S/PDIF

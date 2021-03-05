@@ -1,0 +1,21 @@
+1
+Which kind of form factor is commonly found in HTPCs?
+A. MicroATX
+B. Nano-ITX
+C. Pico-ITX
+D. ATX
+Answer: MicroATX
+2
+Which of the following is a common type of CPU for a smartphone?
+A. LGA 2011
+B. Core i7
+C. SoC
+D. LPDDR
+Answer: SoC
+1
+Approximately one quarter of human bones are in the feet.
+Answer: True
+2
+Sir Paul McCartney's middle name is James
+Answer: False
+
